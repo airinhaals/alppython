@@ -1,6 +1,7 @@
 while True:
-
+    print("####################")
     print("===== LOGIN =====")
+    print("####################")
 
     usuario = input("Usuário: ")
     senha = input("Senha: ")
